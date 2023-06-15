@@ -1,8 +1,20 @@
 {
   "version": 2,
-  "dgSpecHash": "q0W8BF8OZSjlDcJHOkGj/QExfdH7pV15NMZ1P24NXNOPwYp2eO6d49NaYw3TwN968LPY0i+0D/I/L53M9T1JwA==",
+  "dgSpecHash": "grgZQLcWz0/LYwGXupk6rtU3BbSNhhtEw6P3pjtg3/ghI2abAEChPeDvL12mTEIIvjmte8qV+ssqbTzN2qpo5g==",
   "success": true,
   "projectFilePath": "C:\\Users\\chaun\\Documents\\Projects\\ValidPalindrome\\ValidPalindrome\\ValidPalindrome.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\chaun\\.nuget\\packages\\microsoft.codecoverage\\17.6.2\\microsoft.codecoverage.17.6.2.nupkg.sha512",
+    "C:\\Users\\chaun\\.nuget\\packages\\microsoft.net.test.sdk\\17.6.2\\microsoft.net.test.sdk.17.6.2.nupkg.sha512",
+    "C:\\Users\\chaun\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\chaun\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.6.2\\microsoft.testplatform.objectmodel.17.6.2.nupkg.sha512",
+    "C:\\Users\\chaun\\.nuget\\packages\\microsoft.testplatform.testhost\\17.6.2\\microsoft.testplatform.testhost.17.6.2.nupkg.sha512",
+    "C:\\Users\\chaun\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\chaun\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\chaun\\.nuget\\packages\\nuget.frameworks\\6.5.0\\nuget.frameworks.6.5.0.nupkg.sha512",
+    "C:\\Users\\chaun\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\chaun\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\chaun\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
   "logs": []
 }
